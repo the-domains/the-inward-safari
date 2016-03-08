@@ -1,0 +1,28 @@
+name: The Inward Safari
+favicon: null
+layout_spectrum: 0.45472855377011
+typography_spectrum: 0.46165523095987737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9424575234297663
+  lightness: 0.4051466416567564
+  saturation: 0.31488781538791955
+  rhythmicContrast: 0.9219883449841291
+purpose: []
