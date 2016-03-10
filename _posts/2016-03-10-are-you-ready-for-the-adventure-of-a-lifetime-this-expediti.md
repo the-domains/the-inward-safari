@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! I'm Joel Casy and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-03-10T18:24:29.634Z'
-dateModified: '2016-03-10T18:24:14.139Z'
+datePublished: '2016-03-10T18:54:15.666Z'
+dateModified: '2016-03-10T18:54:05.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -22,7 +22,9 @@ url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
 ---
-Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! I'm Joel Casy and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34649f0-0579-4392-8853-4ae8f11edce6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae864155-4e4f-4f84-8f4c-c3ecb112fceb.jpg)
+
+Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! I'm Joel Casy and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
 Why go on an inward safari? Plato's maxim "Know Thyself." 
 
