@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Inward Safari]]></title>
+        <description><![CDATA[The Inward Safari]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 18:01:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! I'm Joel Casy and I'll be your host and guide on this incredible journey of self-discovery, self-realization and self-awareness! </p>]]></description>
+            <link>undefinedare-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
+            <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
+            <pubDate>Thu, 10 Mar 2016 18:01:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
