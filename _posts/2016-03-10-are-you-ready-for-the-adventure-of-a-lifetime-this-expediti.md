@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! I'm Joel Casy and I'll be your host and guide on this incredible journey of self-discovery and self-awareness! "
-datePublished: '2016-03-10T18:01:43.647Z'
-dateModified: '2016-03-08T22:54:43.786Z'
+description: "So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari™ can be your way out!"
+datePublished: '2016-03-10T18:06:04.342Z'
+dateModified: '2016-03-10T18:06:02.752Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
-published: true
 url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
