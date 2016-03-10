@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-10T22:21:31.313Z'
-dateModified: '2016-03-10T22:21:10.465Z'
+datePublished: '2016-03-10T22:28:45.210Z'
+dateModified: '2016-03-10T22:25:40.917Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -32,7 +32,7 @@ Socarates said "The unexmanined life is not worth living!"
 
 Plato's maxim "Know Thyself."
 
-Why is self-examinationa nd getting to know oneself important?
+Why is self-examination and getting to know oneself important?
 
 I have a sense that we are either living by default or we are living in conscious awareness. Being self-aware is living consciously. Until you master the subjective world, you will be a slave to learned patterns, behaviors, programming and conditioning(all unseen and unknown of course). It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! 
 
