@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-11T21:14:46.240Z'
-dateModified: '2016-03-11T21:07:42.636Z'
+datePublished: '2016-03-11T21:35:18.839Z'
+dateModified: '2016-03-11T21:35:04.022Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_ Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -23,9 +23,8 @@ _type: Article
 
 ---
 # Inward Safari
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
 
-Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! 
+Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
 
 I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
@@ -41,7 +40,7 @@ I have a sense that we are either living by default or we are living in consciou
 
 You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df2929a-9281-4c40-8806-0a4cd184934c.png)
 
-It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! 
+It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9de71217-66f1-4fc4-bdba-6d775229213d.png)
 
 So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari(tm) can be your way out!
 
