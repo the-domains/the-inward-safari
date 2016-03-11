@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari™ can be your way out!"
-datePublished: '2016-03-11T22:18:27.165Z'
-dateModified: '2016-03-11T22:18:20.865Z'
+datePublished: '2016-03-11T22:31:55.110Z'
+dateModified: '2016-03-11T22:31:37.391Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -22,13 +22,12 @@ url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ab1b28-5e87-4acf-8220-a8097b136e8a.jpg)
-
-# Inward Safari
-
 ## Are you ready for the adventure of a lifetime?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5a58db-665e-4363-bcc1-49f5546f82a3.jpg)
 
-This expedition is going to be a little different than what you might expect because we are going on an inward safari! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
+
+This expedition is going to be a little different than what you might expect because we are going on an inward safari! 
 
 I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
