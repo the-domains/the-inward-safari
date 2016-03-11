@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari™ can be your way out!"
-datePublished: '2016-03-11T22:31:55.110Z'
-dateModified: '2016-03-11T22:31:37.391Z'
+description: "I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
+datePublished: '2016-03-11T22:50:43.163Z'
+dateModified: '2016-03-11T22:39:13.628Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -22,12 +22,9 @@ url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
 ---
-## Are you ready for the adventure of a lifetime?
+## Are you ready for the adventure of a                                      lifetime?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5a58db-665e-4363-bcc1-49f5546f82a3.jpg)
-
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
-
-This expedition is going to be a little different than what you might expect because we are going on an inward safari! 
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5aebb632d0734a2ea2c712fa91fd8245/passthrough.png?height=378&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F67e94b2d6ad54b1fd5bbcc0298f4237d1f864621.png&width=671)
 
 I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
@@ -43,8 +40,7 @@ I have a sense that we are either living by default or we are living in consciou
 
 You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df2929a-9281-4c40-8806-0a4cd184934c.png)
 
-It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042d40d6-aef0-4481-835c-fff07d9f854d.png)
-
-So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari(tm) can be your way out!
+So, if you're tired of bumping into life and feeling helpless, hopeless, powerless and victimized, the Inward Safari(tm) can be your way out!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042d40d6-aef0-4481-835c-fff07d9f854d.png)
 
 I look forward to sharing this adventure with you!
