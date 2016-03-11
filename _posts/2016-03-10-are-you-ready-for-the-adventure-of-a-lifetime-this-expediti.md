@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari™ can be your way out!"
-datePublished: '2016-03-11T21:42:04.359Z'
-dateModified: '2016-03-11T21:41:32.680Z'
+datePublished: '2016-03-11T21:47:57.389Z'
+dateModified: '2016-03-11T21:47:44.250Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -43,7 +43,7 @@ I have a sense that we are either living by default or we are living in consciou
 
 You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df2929a-9281-4c40-8806-0a4cd184934c.png)
 
-It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9de71217-66f1-4fc4-bdba-6d775229213d.png)
+It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042d40d6-aef0-4481-835c-fff07d9f854d.png)
 
 So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari(tm) can be your way out!
 
