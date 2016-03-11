@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-11T19:03:27.269Z'
-dateModified: '2016-03-11T19:03:09.048Z'
+datePublished: '2016-03-11T19:04:35.436Z'
+dateModified: '2016-03-11T19:04:34.931Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -30,7 +30,7 @@ I'm Joel Casey and I'll be your host and guide on this incredible journey of sel
 
 Why go on an inward safari?
 
-Socarates said "The unexmanined life is not worth living!"
+Socrates said "The unexamanied life is not worth living!"
 
 Plato's maxim "Know Thyself."
 
