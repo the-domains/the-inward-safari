@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-11T19:06:52.522Z'
-dateModified: '2016-03-11T19:06:16.161Z'
+datePublished: '2016-03-11T20:23:37.497Z'
+dateModified: '2016-03-11T20:23:17.248Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -22,14 +22,15 @@ url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
 ---
-Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae864155-4e4f-4f84-8f4c-c3ecb112fceb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e74442b-e50d-43d7-bcc7-8fe8a1f4efdf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
+
+Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! 
 
 I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
 Why go on an inward safari?
 
-Socrates said "The unexamanied life is not worth living!"
+Socrates said "The unexamined life is not worth living!"
 
 Plato's maxim "Know Thyself."
 
