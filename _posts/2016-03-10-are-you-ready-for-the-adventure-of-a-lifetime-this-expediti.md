@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-11T18:13:12.545Z'
-dateModified: '2016-03-11T17:08:09.425Z'
+datePublished: '2016-03-11T18:19:00.660Z'
+dateModified: '2016-03-11T18:15:16.926Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
