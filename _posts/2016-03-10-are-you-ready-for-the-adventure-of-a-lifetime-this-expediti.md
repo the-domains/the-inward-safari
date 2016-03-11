@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari™ can be your way out!"
-datePublished: '2016-03-11T21:51:39.171Z'
-dateModified: '2016-03-11T21:51:26.801Z'
+datePublished: '2016-03-11T22:18:27.165Z'
+dateModified: '2016-03-11T22:18:20.865Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -22,10 +22,11 @@ url: are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ab1b28-5e87-4acf-8220-a8097b136e8a.jpg)
+
 # Inward Safari
 
 ## Are you ready for the adventure of a lifetime?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e987471b-0bc4-43f0-b8a8-be60b003c4d7.jpg)
 
 This expedition is going to be a little different than what you might expect because we are going on an inward safari! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6901436a-2164-46fb-bfb3-eaaf6a5623fd.png)
 
