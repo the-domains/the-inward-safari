@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Are you ready for the adventure of a lifetime? This expedition is going to be a little different than what you might expect because we are going on an inward safari! '
-datePublished: '2016-03-11T20:55:50.992Z'
-dateModified: '2016-03-11T20:53:05.826Z'
-title: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
+datePublished: '2016-03-11T21:06:39.828Z'
+dateModified: '2016-03-11T21:06:18.209Z'
+title: "\_ \_ \_ \_ \_ \_ \_ \_ \_ Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
 published: true
@@ -37,7 +37,11 @@ Plato's maxim "Know Thyself."
 
 Why is self-examination and getting to know oneself important?
 
-I have a sense that we are either living by default or we are living in conscious awareness. Being self-aware is living consciously. Until you master the subjective world, you will be a slave to learned patterns, behaviors, programming and conditioning. All unseen and unknown of course. You can't see what you can't see. It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! 
+I have a sense that we are either living by default or we are living in conscious awareness. Being self-aware is living consciously. Until you master the subjective world, you will be a slave to learned patterns, behaviors, programming and conditioning. All unseen and unknown of course. 
+
+You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df2929a-9281-4c40-8806-0a4cd184934c.png)
+
+It has been said; the day you control the movements of your attention in the subjective world, you are master of your fate! 
 
 So, if you're tired of bumping into life and feeling helpless, hopeless and victimized, the Inward Safari(tm) can be your way out!
 
