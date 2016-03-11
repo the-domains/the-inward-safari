@@ -1,6 +1,6 @@
 name: The Inward Safari
 favicon: null
-layout_spectrum: 0.42474
+layout_spectrum: 0.6519
 typography_spectrum: 0.46165523095987737
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#00243e'
-    - '#686e88'
-    - '#f7fefe'
-    - '#97abb6'
-    - '#bfd2d6'
+    - '#000000'
+    - '#ffffff'
+    - '#f1acaf'
+    - '#bb5d82'
+    - '#5b301d'
   brandStrength: 0
   lightness: 0.4375
   saturation: 0
