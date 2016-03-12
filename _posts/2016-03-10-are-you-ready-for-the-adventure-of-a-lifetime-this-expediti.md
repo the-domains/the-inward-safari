@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-03-12T03:50:47.834Z'
-dateModified: '2016-03-12T03:50:22.514Z'
+datePublished: '2016-03-12T03:56:05.782Z'
+dateModified: '2016-03-12T03:53:51.770Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -40,7 +40,7 @@ Why is self-examination and getting to know oneself important?
 
 I have a sense that we are either living by default or we are living in conscious awareness. Being self-aware is living consciously. Until you master the subjective world, you will be a slave to learned patterns, behaviors, programming and conditioning. All unseen and unknown of course. 
 
-You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df2929a-9281-4c40-8806-0a4cd184934c.png)
+You can't see what you can't see. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41e3b936acf902913acb498f023ee7b5538d6db6.png)
 
 So, if you're tired of bumping into life and feeling helpless, hopeless, powerless and victimized, the Inward Safari(tm) can be your way out!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042d40d6-aef0-4481-835c-fff07d9f854d.png)
