@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "we're going on an inward safari! I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-03-11T23:10:52.756Z'
-dateModified: '2016-03-11T23:10:36.610Z'
+description: "\_I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
+datePublished: '2016-03-12T03:50:47.834Z'
+dateModified: '2016-03-12T03:50:22.514Z'
 title: "\_ \_ \_ \_ \_ \_ \_ \_ \_Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -23,10 +23,10 @@ _type: Article
 
 ---
 ## Are you ready for the adventure of a                                      lifetime?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5a58db-665e-4363-bcc1-49f5546f82a3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eca13e11afbf98474537096ae620a31706babae6.jpg)
 
 This expedition is a little different because we're  going on an inward safari!
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5aebb632d0734a2ea2c712fa91fd8245/passthrough.png?height=378&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F67e94b2d6ad54b1fd5bbcc0298f4237d1f864621.png&width=671)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a16b9cdd4619e346459696165008f47e5c9a67f1.png)
 
 I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! 
 
