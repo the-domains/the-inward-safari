@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-03-12T06:07:33.373Z'
-dateModified: '2016-03-12T06:05:46.066Z'
+datePublished: '2016-03-12T16:15:28.501Z'
+dateModified: '2016-03-12T16:15:06.135Z'
 title: "\_ \_ \_ \_ Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 ## Are you ready for the adventure of a                                      lifetime?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eca13e11afbf98474537096ae620a31706babae6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fb6876e-3e2d-45db-86ef-d295ba44c33c.jpg)
 
 This expedition is a little different because we're  going on an inward safari!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a16b9cdd4619e346459696165008f47e5c9a67f1.png)
@@ -40,7 +40,7 @@ Why is self-examination and getting to know oneself important?
 
 I have a sense that we are either living by default or we are living in conscious awareness. Being self-aware is living consciously. Until you master the subjective world, you will be a slave to learned patterns, behaviors, programming and conditioning. All unseen and unknown of course. 
 
-You can't see what you can't see. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41e3b936acf902913acb498f023ee7b5538d6db6.png)
+You can't see what you can't see. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ed1f5c3-821c-4f8d-865f-7da9af6e6da4.jpg)
 
 So, if you're tired of bumping into life and feeling helpless, hopeless, powerless and victimized, the_**Inward Safari**_(tm) can be your way out!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6c984cc18f66ae56a3aa2e8aa58f07761bc9e0d.png)
