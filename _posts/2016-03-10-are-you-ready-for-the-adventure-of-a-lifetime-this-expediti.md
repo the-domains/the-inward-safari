@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-03-12T06:03:50.086Z'
-dateModified: '2016-03-12T06:02:49.978Z'
+datePublished: '2016-03-12T06:05:37.023Z'
+dateModified: '2016-03-12T06:03:59.336Z'
 title: "\_ \_ \_ \_ Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
