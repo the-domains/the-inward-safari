@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=dOXSx3Kmu-w'
+inLanguage: null
+starred: false
+keywords: []
+description: Test for the Grid and my site
+datePublished: '2016-04-06T06:35:05.459Z'
+dateModified: '2016-04-06T06:34:51.211Z'
 author:
   - name: Inward Safari
     url: 'https://www.youtube.com/channel/UCyF5Tx-CbrQFniRIk5zUhNA'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Test for the Grid and my site
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=dOXSx3Kmu-w'
 title: My Movie Medium
-datePublished: '2016-04-06T06:06:23.952Z'
-dateModified: '2016-04-06T05:58:43.266Z'
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 sourcePath: _posts/2016-04-06-my-movie-medium.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
