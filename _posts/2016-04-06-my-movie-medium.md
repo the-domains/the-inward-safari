@@ -7,23 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Test for the Grid and my site
-datePublished: '2016-04-06T06:35:05.459Z'
-dateModified: '2016-04-06T06:34:51.211Z'
+datePublished: '2016-04-06T06:44:00.632Z'
+dateModified: '2016-04-06T06:43:47.440Z'
 author:
   - name: Inward Safari
     url: 'https://www.youtube.com/channel/UCyF5Tx-CbrQFniRIk5zUhNA'
     avatar: {}
 related: []
 app_links: []
-title: My Movie Medium
+title: Intro to Inward Safari
+sourcePath: _posts/2016-04-06-my-movie-medium.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-06-my-movie-medium.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
