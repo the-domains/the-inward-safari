@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! "
-datePublished: '2016-04-08T00:08:18.061Z'
-dateModified: '2016-04-06T06:46:27.029Z'
+datePublished: '2016-04-08T02:15:26.954Z'
+dateModified: '2016-04-08T00:26:00.082Z'
 title: "\_ \_ \_ \_ Inward Safari"
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -46,7 +46,3 @@ If you're tired of bumping into life and feeling helpless, hopeless, powerless a
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6c984cc18f66ae56a3aa2e8aa58f07761bc9e0d.png)
 
 I look forward to sharing this adventure with you!
-
-[https://youtu.be/dOXSx3Kmu-w][0]
-
-[0]: https://youtu.be/dOXSx3Kmu-w
