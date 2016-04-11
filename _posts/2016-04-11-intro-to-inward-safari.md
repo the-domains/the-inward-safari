@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=dOXSx3Kmu-w'
+inLanguage: null
+starred: false
+keywords: []
+description: 'The inward Safari gives one the opportunity to get to know ones self. Once you understand why you do what you do, you can change how you experience life. Until you know yourself, you will continue living by default and will feel helpless, hopeless, powerless and victimized- unable to change your life circumstances.'
+datePublished: '2016-04-11T18:13:34.584Z'
+dateModified: '2016-04-11T18:13:08.076Z'
 author:
   - name: Inward Safari
     url: 'https://www.youtube.com/channel/UCyF5Tx-CbrQFniRIk5zUhNA'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'The inward Safari gives one the opportunity to get to know ones self. Once you understand why you do what you do, you can change how you experience life. Until you know yourself, you will continue living by default and will feel helpless, hopeless, powerless and victimized- unable to change your life circumstances.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=dOXSx3Kmu-w'
 title: Intro to Inward Safari
-datePublished: '2016-04-11T18:05:45.574Z'
-dateModified: '2016-04-11T18:02:39.289Z'
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 sourcePath: _posts/2016-04-11-intro-to-inward-safari.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
