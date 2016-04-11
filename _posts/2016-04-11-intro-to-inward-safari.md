@@ -14,8 +14,8 @@ description: 'The inward Safari gives one the opportunity to get to know ones se
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dOXSx3Kmu-w'
 title: Intro to Inward Safari
-datePublished: '2016-04-11T17:41:39.136Z'
-dateModified: '2016-04-11T17:36:16.629Z'
+datePublished: '2016-04-11T18:05:45.574Z'
+dateModified: '2016-04-11T18:02:39.289Z'
 sourcePath: _posts/2016-04-11-intro-to-inward-safari.md
 published: true
 inFeed: true
