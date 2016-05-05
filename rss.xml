@@ -4,8 +4,15 @@
         <description><![CDATA[Inward Safari]]></description>
         <link>https://thegrid.ai/the-inward-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 23:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-inward-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Are you ready for the adventure of a lifetime?]]></title>
+            <description><![CDATA[<article><h1> Are you ready for the adventure of a lifetime?</h1><p> I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!</p></article>]]></description>
+            <link>https://thegrid.ai/the-inward-safari/are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
+            <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
+            <pubDate>Thu, 05 May 2016 23:27:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[introduction to the Inward Safari]]></title>
             <description><![CDATA[<article><h1>introduction to the Inward Safari</h1><p>Introduction to the greatest adventure anyone could ever take...the Inward Safari!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfd4db7f401e4c1492eae922038ad6700f7c3780.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=dOXSx3Kmu-w</link>
             <guid isPermaLink="false">0e2c1b82-e80c-4e89-aa88-84c5635481e7</guid>
             <pubDate>Tue, 12 Apr 2016 00:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[    Are you ready for the adventure of a                                      lifetime?]]></title>
-            <description><![CDATA[<article><h1>    Are you ready for the adventure of a                                      lifetime?</h1><p> I'm Joel Casey and I'll be your host and guide on this incredible journey of self-discovery, self-realization, and self-awareness! </p></article>]]></description>
-            <link>https://thegrid.ai/the-inward-safari/are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
-            <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
-            <pubDate>Fri, 08 Apr 2016 02:15:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
