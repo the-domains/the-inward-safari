@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Joel Casey
-    url: 'https://www.youtube.com/user/joelkc5'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=KkEG9ZcL11Y&feature=youtu.be'
+inLanguage: en
 keywords:
   - purple
   - aliaga
@@ -21,7 +16,13 @@ keywords:
   - inward
   - safari
 description: 'Introduction to the greatest adventure anyone could ever take...the Inward Safari!'
-inLanguage: en
+datePublished: '2016-05-17T20:48:03.221Z'
+dateModified: '2016-05-17T20:48:02.800Z'
+author:
+  - name: Joel Casey
+    url: 'https://www.youtube.com/user/joelkc5'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KkEG9ZcL11Y&feature=applinks'
     type: ios
@@ -59,16 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=KkEG9ZcL11Y&feature=youtu.be'
 title: introduction to the Inward Safari
-datePublished: '2016-04-25T18:25:40.356Z'
-dateModified: '2016-04-25T18:24:31.039Z'
-starred: false
 sourcePath: _posts/2016-04-25-introduction-to-the-inward-safari.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
