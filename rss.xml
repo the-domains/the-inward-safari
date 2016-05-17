@@ -4,8 +4,15 @@
         <description><![CDATA[Inward Safari]]></description>
         <link>https://thegrid.ai/the-inward-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 20:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 20:48:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-inward-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intro to Inward Safari]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28897cd3-e930-4f1f-9a5b-4738c254d289.jpg">]]></description>
+            <link>https://www.youtube.com/watch?v=dOXSx3Kmu-w</link>
+            <guid isPermaLink="false">0e2c1b82-e80c-4e89-aa88-84c5635481e7</guid>
+            <pubDate>Tue, 17 May 2016 20:48:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[introduction to the Inward Safari]]></title>
             <description><![CDATA[<article><h1>introduction to the Inward Safari</h1><p>Introduction to the greatest adventure anyone could ever take...the Inward Safari!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfd4db7f401e4c1492eae922038ad6700f7c3780.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/the-inward-safari/are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
             <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
             <pubDate>Thu, 05 May 2016 23:27:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intro to Inward Safari]]></title>
-            <description><![CDATA[<article><h1>Intro to Inward Safari</h1><p>The inward Safari gives one the opportunity to get to know ones self. Once you understand why you do what you do, you can change how you experience life. Until you know yourself, you will continue living by default and will feel helpless, hopeless, powerless and victimized- unable to change your life circumstances.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6603801d0da540e8df5e25f7ba400b4c5cebd1c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=dOXSx3Kmu-w</link>
-            <guid isPermaLink="false">0e2c1b82-e80c-4e89-aa88-84c5635481e7</guid>
-            <pubDate>Tue, 12 Apr 2016 00:47:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
