@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: " I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!"
-datePublished: '2016-05-05T23:27:43.695Z'
-dateModified: '2016-05-05T18:06:57.480Z'
+description: " I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-observation, self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!"
+datePublished: '2016-05-17T20:48:27.503Z'
+dateModified: '2016-05-11T21:52:00.825Z'
 title: ' Are you ready for the adventure of a lifetime?'
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
@@ -27,7 +27,7 @@ _type: Article
 This expedition is a little different because we're going on an inward safari!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a16b9cdd4619e346459696165008f47e5c9a67f1.png)
 
-I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!
+I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-observation, self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!
 
 Why go on an inward safari?
 
