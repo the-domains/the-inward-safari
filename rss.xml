@@ -4,8 +4,15 @@
         <description><![CDATA[Inward Safari]]></description>
         <link>https://thegrid.ai/the-inward-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 20:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 19:23:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-inward-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Are you ready for the adventure of a lifetime?]]></title>
+            <description><![CDATA[<article><h1> Are you ready for the adventure of a lifetime?</h1><p> I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-observation, self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!</p></article>]]></description>
+            <link>https://thegrid.ai/the-inward-safari/are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
+            <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
+            <pubDate>Wed, 18 May 2016 19:23:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intro to Inward Safari]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28897cd3-e930-4f1f-9a5b-4738c254d289.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=KkEG9ZcL11Y&amp;feature=youtu.be</link>
             <guid isPermaLink="false">19fdb8da-d26c-4c10-8f8e-048dae0caf6f</guid>
             <pubDate>Tue, 17 May 2016 20:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ Are you ready for the adventure of a lifetime?]]></title>
-            <description><![CDATA[<article><h1> Are you ready for the adventure of a lifetime?</h1><p> I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!</p></article>]]></description>
-            <link>https://thegrid.ai/the-inward-safari/are-you-ready-for-the-adventure-of-a-lifetime-this-expediti/index.html</link>
-            <guid isPermaLink="false">d83a7485-f506-4f57-bad3-eca2285fc563</guid>
-            <pubDate>Thu, 05 May 2016 23:27:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
