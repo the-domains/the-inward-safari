@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: " I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-observation, self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!"
-datePublished: '2016-05-17T20:48:27.503Z'
-dateModified: '2016-05-11T21:52:00.825Z'
+datePublished: '2016-05-18T19:23:32.495Z'
+dateModified: '2016-05-17T22:44:19.882Z'
 title: ' Are you ready for the adventure of a lifetime?'
 author: []
 sourcePath: _posts/2016-03-10-are-you-ready-for-the-adventure-of-a-lifetime-this-expediti.md
