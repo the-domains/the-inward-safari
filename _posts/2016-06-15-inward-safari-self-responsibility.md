@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Joel Casey
-    url: 'https://www.youtube.com/user/joelkc5'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=h99IH93H8gw'
+inLanguage: en
 keywords:
   - duration
   - ericthecarguy
@@ -25,7 +20,13 @@ description: >-
   throughout your day how you interpret your experiences. Never beat yourself up
   for misperceiving an event and thus feeling like you have no choice but to
   fall victim and feel helpless, hopeless and powerless.
-inLanguage: en
+datePublished: '2016-06-15T20:18:09.169Z'
+dateModified: '2016-06-15T20:14:14.671Z'
+author:
+  - name: Joel Casey
+    url: 'https://www.youtube.com/user/joelkc5'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=h99IH93H8gw&feature=applinks'
     type: ios
@@ -63,15 +64,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=h99IH93H8gw'
 title: Inward Safari Self Responsibility
-datePublished: '2016-06-15T16:41:04.615Z'
-dateModified: '2016-06-15T16:39:15.379Z'
-starred: false
 sourcePath: _posts/2016-06-15-inward-safari-self-responsibility.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
