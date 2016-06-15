@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Inward Safari]]></title>
-        <description><![CDATA[Inward Safari]]></description>
+        <title><![CDATA[The Inward Safari]]></title>
+        <description><![CDATA[The Inward Safari]]></description>
         <link>https://thegrid.ai/the-inward-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 19:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 16:35:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-inward-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/h99IH93H8gw</p>]]></description>
+            <link>https://thegrid.ai/the-inward-safari/httpsyoutubeh99ih93h8gw/index.html</link>
+            <guid isPermaLink="false">81caed51-c2d6-4493-9927-14a42bcdadec</guid>
+            <pubDate>Wed, 15 Jun 2016 16:35:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are you ready for the Adventure of a Lifetime?]]></title>
             <description><![CDATA[<p> I'm Joel Casey and I'll be your host and guide on this incredible journey of impartial self-observation, self-awareness, self-discovery, self-realization, self-actualization and self-empowerment!</p>]]></description>
