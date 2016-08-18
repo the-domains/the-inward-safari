@@ -1,20 +1,4 @@
-name: Inward Safari
-favicon: null
-layout_spectrum: 0.36944
 typography_spectrum: 0.46165523095987737
-title: The Inward Safari
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.9375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36944
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Inward Safari
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Inward Safari
+description: The journey of a lifetime
 purpose: []
